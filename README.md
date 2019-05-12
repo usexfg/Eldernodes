@@ -9,3 +9,4 @@
 -  ice.zirtysperzys.info:18180
 -  fire.zirtysperzys.online:18180
 -  drgl.online:18181
+-  176.223.134.27:18180
