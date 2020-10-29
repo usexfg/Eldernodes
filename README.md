@@ -1,4 +1,4 @@
-# Fandom Gold Service-Nodes list
+# Fandom Gold Elder-Nodes list
 ### This list will be used for remote connection in Fango wallets.
 #### To include any stable or service-node in this list just click the edit button and add pull request
 ###### For information on setting up your service node check out the [fandomgold wiki article](https://github.com/FandomGold/fandomgold/wiki/Run-a-Service-Node).
