@@ -1,7 +1,7 @@
 # XFG Elder Node list
-### This list is used for remote connection in Fango wallets.
-#### To include any stable operating service-node in this list just click the edit button and add pull request
-###### For information on setting up your service node check out the [fandomgold wiki article](https://github.com/FandomGold/fandomgold/wiki/Run-a-Service-Node).
+### This list is used for remote service connections to Fango wallets.
+#### To include any stable service node in this list just click the edit button and add pull request
+###### For information on setting up your Elder Node check out the [fandomgold wiki article](https://github.com/FandomGold/fandomgold/wiki/Run-a-Service-Node).
 
 --------------------------
 
