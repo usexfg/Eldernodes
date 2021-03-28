@@ -11,4 +11,4 @@
 -  178.128.164.245:18180
 -  radioactive.es:18180
 -  fangotango.hopto.org:18180
-- 
+-  cz.derogold4ever.online:18180
