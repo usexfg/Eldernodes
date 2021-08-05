@@ -9,6 +9,6 @@
 -  fango.money:18180
 -  104.236.0.16:18180
 -  178.128.164.245:18180
--  radioactive.es:18180
+-  82.223.203.210:18180
 -  fangotango.hopto.org:18180
 -  cz.derogold4ever.online:18180
