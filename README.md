@@ -9,6 +9,6 @@
 -  fango.money:18180
 -  104.236.0.16:18180
 -  82.223.203.210:18180
+-  xfg.ms-pool.net.ua:18180 
 -  fangotango.hopto.org:18180
--  cz.derogold4ever.online:18180
 -  xfg.fandroid.net:18180
