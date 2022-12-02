@@ -8,7 +8,7 @@
 -  188.226.177.187:18180
 -  fango.money:18180
 -  104.236.0.16:18180
--  82.223.203.210:18180
+-  radioactive.sytes.net:18180
 -  xfg.ms-pool.net.ua:18180 
 -  fangotango.hopto.org:18180
 -  xfg.fandroid.net:18180
