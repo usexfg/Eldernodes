@@ -4,10 +4,9 @@
 ###### For information on setting up your Elder Node check out the [Fuego Guides article](https://github.com/usexfg/Guides/wiki/Run-an-Elder-Node).
 
 --------------------------
-
--  radioactive.sytes.net:18180
--  xfg.ms-pool.net.ua:18180 
--  3.16.217.33:18180
 -  loudmining.com:18180
+-  radioactive.sytes.net:18180
+-  47.76.184.4:18180
+-  xfg.ms-pool.net.ua:18180 
 -  fangotango.hopto.org:18180
 -  xfg.fandroid.net:18180
